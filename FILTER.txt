@@ -1,0 +1,21 @@
+<HTML><HEAD><META HTTP-EQUIV="content-type"  CONTENT="text/html; charset=UTF-8">
+<META NAME="ROBOTS" CONTENT="NOINDEX,NOFOLLOW">
+<TITLE>CloudFlare search results</TITLE></HEAD><BODY BGCOLOR=#eeeebe>
+<font face="Arial, Helvetica, sans-serif"><BR><blockquote><b>
+<font size=5><center>Data for <font color=#c00000>geekflare.com</font></font></center>
+<BR>olga.ns.cloudflare.com
+<BR>todd.ns.cloudflare.com
+<BR><BR><a href="http://www.crimeflare.org:82/cgi-bin/cflist2/26386">SSL certificate info</a> for geekflare.com<BR><BR>A direct-connect IP address was found: 
+<font color=#c00000>geekflare.com 173.247.252.216 UNITED STATES</font>
+<BR><BR>A page was fetched from this IP address, using <font color=#c00000>curl</font> with the
+<font color=#c00000>-H Host:</font> option, and that page has this title: <font color=#c00000>
+Schad Commodity</font>
+<BR><BR>Previous lookups for this domain:<UL>
+<LI>2015-07-01: geekflare.com 173.247.252.216 UNITED STATES
+</UL><font size=2><BR><BR>The direct-connect IP addresses listed above 
+may point to a server that hosts more than one domain. 
+Click below to see other domains from our database with the same 
+direct-connect IP. This information might provide additional 
+clues for experienced researchers.
+<blockquote><a href="http://www.crimeflare.org:82/cgi-bin/cflist/26386-173.247.252.216">173.247.252.216</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </blockquote><BR></b><center><a href="http://www.crimeflare.org:82/cfs.html#box">Back to search box</a>
+</center><BR></blockquote></BODY></HTML>
