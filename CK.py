@@ -43,10 +43,10 @@ parser.add_argument("-s", "--scan", type=str, help="-s example.com OR --scan exa
 parser.add_argument("-a", "--author", help="-a OR --author",  action='store_true')
 args = parser.parse_args()
 
-client = requests.session()
+
 TAGET_URL = args.scan
 # Remember to modify either the host or port to be the same TOR Browser.
-socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, "127.0.0.1", 9150)
+socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, "127.0.0.1", 9015)
 socket.socket = socks.socksocket
 
 if args.scan:
