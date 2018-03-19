@@ -46,7 +46,7 @@ args = parser.parse_args()
 
 TAGET_URL = args.scan
 # Remember to modify either the host or port to be the same TOR Browser.
-socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, "127.0.0.1", 9015)
+socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, "127.0.0.1", 9150)
 socket.socket = socks.socksocket
 
 if args.scan:
