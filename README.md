@@ -20,7 +20,7 @@ Make sure that the IP AND PORT are the same in TOR Browser preferences > advance
 Include the files below in one folder : 
 
 * FILTER.txt	
-* CK.pl
+* CK.py
 
 Make Sure The Modules Below Are Installed If NOT > use this command to install one : pip install [module name] 
 
